@@ -2,3 +2,17 @@ flag when creating a post ^FLAG^b07fff48df717e0bf74e941bb27f1a54381331f7eb1593df
 flag by id "b" and secret blog ^FLAG^19a926e7d9c427ed63d9c6d244ea4eb3b9d1831d1218adc1e9b5f7fdd80311a2$FLAG$
 editing edit.php and id 2 and posting it ^FLAG^5be10f969eeb7bba70d759057dbc0734064530f0d661c64759ba2ffa367ce02c$FLAG$
 
+^FLAG^2e1ba2e8ebdc3cd45b46edb47450eea082db068e8481cf88530a573bc2666a53$FLAG$: user:user and password:password
+
+deleting post with someone else's cookie : ^FLAG^41c1db899132303bbdf07982023f1cd17015cc58db444772471932cf9e65e3aa$FLAG$
+
+post with id 945 : ^FLAG^11c1901335776f6f71d19dc4f7570cee1a258bab75a3ed6eb8f046cfd0c82f1a$FLAG$
+
+victim cookie : a87ff679a2f3e71d9181a67b7542122c (my account)
+attacker cookie : eccbc87e4b5ce2fe28308fd9f2a7baf3 (my account)
+user cookie : c81e728d9d4c2f636f067f89cc14862c
+
+cookies are md5 hashes so md5 hash of 1 : c4ca4238a0b923820dcc509a6f75849b
+
+we get, user: admin password: @9(a(QuDHwJq3[@2EDU2%K,j*Af]p8wZV]f
+flag: ^FLAG^ca91fd1dec0ff78b6a4e2e7fe7b1502c05e2ef43002924d71f71d76d46c70c11$FLAG$ 
